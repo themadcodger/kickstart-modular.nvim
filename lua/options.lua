@@ -29,6 +29,9 @@ vim.o.breakindent = true
 -- Enable soft line break
 vim.opt.linebreak = true
 
+-- Enable soft line break
+vim.opt.linebreak = true
+
 -- Save undo history
 vim.o.undofile = true
 
