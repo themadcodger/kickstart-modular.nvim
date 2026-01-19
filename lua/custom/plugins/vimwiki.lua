@@ -10,7 +10,7 @@ return {
     vim.g.vimwiki_list = {
       {
         -- Here will be the path for your wiki
-        path = "~/Sync'd/Documents/Personal/vimwiki/",
+        path = '~/OpenCloud/Personal/Documents/Personal/vimwiki',
         -- The syntax for the wiki
         syntax = 'markdown',
         ext = 'md',
